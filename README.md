@@ -1,4 +1,4 @@
-# Hi there, I'm Rawda Ahmed ✨
+# Hi there, I'm Rawda Ahmed  👋
 
 ## 💌 Contact Me
 
