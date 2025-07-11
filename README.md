@@ -10,6 +10,7 @@
 ## 🎓 About Me
 
 - 🧕 I'm studying at the **Faculty of Computers and Artificial Intelligence, Benha University**.
+- 💻 I'm a Front-End Developer creating web apps with React.
 
 ---
 
