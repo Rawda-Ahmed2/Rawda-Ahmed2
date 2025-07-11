@@ -1,18 +1,19 @@
-# Hi there, I'm Rawda Ahmed 👋
+# Hi there, I'm Rawda Ahmed ✨
 
-## 📬 Contact Me
+## 💌 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawda-ahmed-726aa72a1)
 [![Email](https://img.shields.io/badge/Email-rawdaryan4%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rawdaryan4@gmail.com)
 
 ---
 
-## 👩‍💻 About Me
+## 🎓 About Me
 
-- 🎓 I'm studying at the **Faculty of Computers and Artificial Intelligence, Benha University**
+- 🧕 I'm studying at the **Faculty of Computers and Artificial Intelligence, Benha University**.
+
 ---
 
-## 🛠️ Technologies & Tools
+## 💻 Technologies & Tools
 
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -29,5 +30,3 @@
 <br /><br />
 
 ---
-
-
