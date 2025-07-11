@@ -1,6 +1,7 @@
 # Hi there, I'm Rawda Ahmed 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rawda--Ahmed2-black?style=for-the-badge&logo=github)](https://github.com/Rawda-Ahmed2)
+## 📬 Contact Me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawda-ahmed-726aa72a1)
 [![Email](https://img.shields.io/badge/Email-rawdaryan4%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rawdaryan4@gmail.com)
 
